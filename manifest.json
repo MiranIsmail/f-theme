@@ -1,0 +1,48 @@
+{
+  "manifest_version": 2,
+  "name": "Vampire Black Theme",
+  "version": "1.1",
+  "description": "A dark theme with a black background image",
+  "author": "Boolean",
+  "theme": {
+    "colors": {
+      "button_background_active": "#080808",
+      "button_background_hover": "#080808",
+      "bookmark_text": "rgba(128, 128, 128, 0.8)",  // Grey text for bookmarks
+      "frame": "#080808",
+      "frame_inactive": "#080808",
+      "icons": "rgba(255, 255, 255, 0.8)",
+      "icons_attention": "#9400ff",  // Keep the attention icon color (purple)
+      "ntp_background": "#080808",  // New Tab Page background as dark as possible
+      "ntp_text": "rgba(255, 255, 255, 0.8)",  // White text on the New Tab Page
+      "popup": "#080808",  // Dark background for popups
+      "popup_border": "#333333",  // Light grey border
+      "popup_highlight": "#333333",  // Highlighted popup background in grey
+      "popup_highlight_text": "white",  // White text for highlighted items in popup
+      "popup_text": "rgba(255, 255, 255, 0.8)",  // Light text for popups
+      "sidebar": "#080808",  // Sidebar background as dark as possible
+      "sidebar_border": "#333333",  // Light grey border for sidebar
+      "sidebar_highlight": "#333333",  // Highlighted sidebar background in grey
+      "sidebar_highlight_text": "white",  // White text for highlighted sidebar items
+      "sidebar_text": "rgba(255, 255, 255, 0.8)",  // Light text in sidebar
+      "tab_background_separator": "transparent",  // Keep separator transparent
+      "tab_background_text": "#aaaaaa",  // Grey text for inactive tab text
+      "tab_loading": "white",  // Loading indicator is white
+      "tab_selected": "rgba(200, 200, 200, 0.1)",  // Light grey background for selected tab
+      "tab_text": "#ffffff",  // White text for active tab
+      "tab_line": "rgba(255, 255, 255, 0.05)",  // Very subtle line separator for tab
+      "toolbar": "rgba(08, 08, 08, 0.8)",  // Dark toolbar background
+      "toolbar_bottom_separator": "#333333",  // Grey separator line at the bottom of toolbar
+      "toolbar_field": "#080808",  // Dark background for toolbar fields
+      "toolbar_field_border": "transparent",  // Transparent border for toolbar fields
+      "toolbar_field_border_focus": "#080808",  // Light grey border when focused
+      "toolbar_field_focus": "#111111",  // Dark focus color for toolbar field
+      "toolbar_field_highlight": "#080808",  // Light grey for toolbar field highlight
+      "toolbar_field_highlight_text": "white",  // White text when toolbar field is highlighted
+      "toolbar_field_text": "rgba(255, 255, 255, 0.8)",  // Light grey text in toolbar fields
+      "toolbar_field_text_focus": "white",  // White text in toolbar field when focused
+      "toolbar_top_separator": "rgba(18, 18, 18, 0.0)",  // Keep top separator transparent
+      "toolbar_vertical_separator": "rgba(255, 255, 255, 0.06)"  // Very subtle vertical separator
+    }
+  }
+}
