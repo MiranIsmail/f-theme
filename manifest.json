@@ -7,7 +7,7 @@
   "theme": {
     "colors": {
       "button_background_active": "#080808",
-      "button_background_hover": "#080808",
+      "button_background_hover": "#333333",
       "bookmark_text": "rgba(128, 128, 128, 0.8)",  // Grey text for bookmarks
       "frame": "#080808",
       "frame_inactive": "#080808",
